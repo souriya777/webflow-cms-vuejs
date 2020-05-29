@@ -1,29 +1,12 @@
 # webflow-cms-vuejs
+A (minimalist) clone of Webflow CMS, in vuejs 🔥
 
-## Project setup
-```
-yarn install
-```
+## What ?
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+Clone of Webflow CMS https://webflow.com/
 
-### Compiles and minifies for production
-```
-yarn build
-```
+Demo : https://webflow-cms-vuejs.netlify.app/
 
-### Run your unit tests
-```
-yarn test:unit
-```
+## Why ?
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+To improve my vue.js skills
